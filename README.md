@@ -21,5 +21,5 @@ Een barintrainer app die een variërend aanbod geeft van activiteiten die de per
 - Punten toekennen per activiteit en daar een score van maken
 - Score delen met je vrienden op een scorebord
 
-# Visual Sketch
+## Visual Sketch
 
