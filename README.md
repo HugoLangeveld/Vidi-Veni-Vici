@@ -1,4 +1,4 @@
-### Vidi Veni Vici
+# Vidi Veni Vici
 
 ## Problem Statement
 Toen mijn opa en oma rond de leeftijd van 75 kwamen, werd er al snel het idee geopperd om hun een braintrainer als cadeau te geven om hun hersenen actief en scherp te houden. Al snel werd een Nintendo DS, terwijl mijn opa en oma zich afhielden van moderne technologie, met daarop een braintrainer spelletje aangeschaft. Toen ze het veelvuldig aan het spelen waren merkten ze al gauw dat ze het leuk vonden om puzzels op te lossen en wiskundige raadsels op te lossen. 
