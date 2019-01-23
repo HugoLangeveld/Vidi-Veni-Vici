@@ -25,3 +25,8 @@ Potentiële verberting
 ![alt text](https://github.com/HugoLangeveld/Vidi-Veni-Vici/blob/master/doc/Schermafbeelding%202019-01-18%20om%2014.59.18.png)
 ![alt text](https://github.com/HugoLangeveld/Vidi-Veni-Vici/blob/master/doc/Schermafbeelding%202019-01-18%20om%2015.03.34.png)
 ![alt text](https://github.com/HugoLangeveld/Vidi-Veni-Vici/blob/master/doc/Schermafbeelding%202019-01-18%20om%2015.07.59.png)
+
+## Prerequisities
+
+# Data Sources
+Data die in deze app gebruikt zal worden zal gevonden worden in wetenschappelijke literatuur betreffende het effect van de activiteiten op de ontwikkeling/stimulatie van het brein.
