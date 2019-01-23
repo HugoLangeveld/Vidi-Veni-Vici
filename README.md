@@ -28,5 +28,5 @@ Potentiële verberting
 
 ## Prerequisities
 
-# Data Sources
+### Data Sources
 Data die in deze app gebruikt zal worden zal gevonden worden in wetenschappelijke literatuur betreffende het effect van de activiteiten op de ontwikkeling/stimulatie van het brein.
